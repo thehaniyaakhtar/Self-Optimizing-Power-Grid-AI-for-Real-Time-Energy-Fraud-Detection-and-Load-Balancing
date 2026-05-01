@@ -1,0 +1,77 @@
+# =========================
+# PYTHON
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# =========================
+# VIRTUAL ENVIRONMENT
+# =========================
+venv/
+env/
+.venv/
+
+# =========================
+# FLASK
+# =========================
+instance/
+.webassets-cache
+
+# =========================
+# DATA FILES (IMPORTANT)
+# =========================
+*.csv
+*.xlsx
+
+# If you WANT to keep sample datasets, comment above and use:
+# !fraud_balance/syn_fraud.csv
+# !load_bal/syn_load_bal.csv
+
+# =========================
+# MODEL FILES (OPTIONAL)
+# =========================
+*.joblib
+*.pkl
+
+# (If you want to keep trained models, comment above and use:)
+# !static/fraud_model_local.joblib
+# !static/scaler.joblib
+# !static/encoders.joblib
+# !static/blackout_model.joblib
+
+# =========================
+# LOGS
+# =========================
+*.log
+
+# =========================
+# IDE / EDITOR
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# STATIC GENERATED FILES
+# =========================
+static/mumbai_zones.geojson
+static/mumbai_zones.js
+static/zone_info.json
+
+# =========================
+# SECRETS
+# =========================
+.env
+venv311/
+venv/
+__pycache__/
+*.pyc
+.env
