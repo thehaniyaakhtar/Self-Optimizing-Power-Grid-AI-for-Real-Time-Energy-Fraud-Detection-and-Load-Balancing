@@ -138,12 +138,6 @@ L_effective = L × (1 − f)
 
 ---
 
-## 🎯 Conclusion  
-
-This project demonstrates how AI can transform traditional power grids into intelligent, adaptive, and self-optimizing systems, addressing both efficiency and security in modern urban environments.
-
----
-
 ## 📸 Screenshots
 
 <div align="center">
@@ -156,28 +150,34 @@ This project demonstrates how AI can transform traditional power grids into inte
   <img src="https://github.com/user-attachments/assets/8799f81c-d922-4e8b-a583-5d18afe39d0e" width="85%"/>
   <br><br>
 
-  <p><strong>Fraud Detection Results</strong></p>
-  <img src="https://github.com/user-attachments/assets/eb67160a-7c94-4a2e-8788-b93a7de394c3" width="85%"/>
-  <br><br>
-
-  <p><strong>Load Balancing Visualization</strong></p>
-  <img src="https://github.com/user-attachments/assets/7b61f547-e2be-4cda-8444-b7e437cb479c" width="85%"/>
-  <br><br>
-
-  <p><strong>Performance Metrics</strong></p>
-  <img src="https://github.com/user-attachments/assets/140150fe-2fbf-4820-895e-39d30fa83f31" width="85%"/>
-  <br><br>
-
-  <p><strong>Renewable Energy Contribution Metrics</strong></p>
-  <img src="https://github.com/user-attachments/assets/4d7a10e8-d38c-41c2-b423-0d726104e2b8" width="85%"/>
-  <br><br>
-
-  <p><strong>Control Panel</strong></p>
+  <p><strong>Fraud Detection User Dashboard</strong></p>
   <img src="https://github.com/user-attachments/assets/906875d6-f08c-4302-a236-77dc754db5fc" width="85%"/>
   <br><br>
 
-  <p><strong>Detailed Analytics View</strong></p>
+  <p><strong>Load Balance User Dashboard</strong></p>
+  <img src="https://github.com/user-attachments/assets/4d7a10e8-d38c-41c2-b423-0d726104e2b8" width="85%"/>
+  <br><br>
+
+  <p><strong>Fraud Detection Dashboard for Utility and Professionals</strong></p>
+  <img src="https://github.com/user-attachments/assets/ece4011d-3aa1-4812-85a6-8af7ffda7fa4" width="85%"/>
+  <br><br>
+
+  <p><strong>Load Balancing Dashboard for Utility and Professionals</strong></p>
+  <img src="https://github.com/user-attachments/assets/140150fe-2fbf-4820-895e-39d30fa83f31" width="85%"/>
+  <br><br>
+
+  <p><strong>Map Visualization in accordance to Electricity Providers</strong></p>
+  <img src="https://github.com/user-attachments/assets/7b61f547-e2be-4cda-8444-b7e437cb479c" width="85%"/>
+  <br><br>
+
+  <p><strong>Renewable Energy Contribution Metrics</strong></p>
   <img src="https://github.com/user-attachments/assets/401753f1-4e15-42e6-b4e8-bb89de91a93e" width="85%"/>
 
 </div>
+
+---
+
+## 🎯 Conclusion  
+
+This project demonstrates how AI can transform traditional power grids into intelligent, adaptive, and self-optimizing systems, addressing both efficiency and security in modern urban environments.
 
