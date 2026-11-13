@@ -239,16 +239,13 @@ To address this issue, the proposed framework incorporates the predicted fraud p
 The fraud-adjusted demand is represented as:
 
 \[
-L_{\text{effective}}(t)
-=
-L_{\text{measured}}(t)(1-f_t)
+L_{\text{effective}}(t)=L_{\text{measured}}(t)\times(1-f_t)
 \]
 
 Where:
-
-- \(L_{\text{effective}}(t)\) represents the adjusted demand.
-- \(L_{\text{measured}}(t)\) represents the measured demand.
-- \(f_t\) represents the predicted fraud probability.
+- \(L_{\text{effective}}(t)\) is the fraud-adjusted demand.
+- \(L_{\text{measured}}(t)\) is the measured electricity demand.
+- \(f_t\) is the predicted fraud probability.
 
 The resulting effective demand is incorporated into the reinforcement learning state representation.
 
